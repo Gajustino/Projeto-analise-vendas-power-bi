@@ -8,7 +8,7 @@ Utilizei o Power BI para transformar os dados brutos em um painel executivo mode
 
 ##  Link público
 
-[Clique aqui para visualizar o Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiMWE4NWQzZjAtMWQ1My00MzY5LWEyZTMtMTAxN2I1ZDcyMmZlIiwidCI6Ijc5YzcwOGI2LWRkODMtNDgwYS04ZDNkLTI5YTYyZTg3N2IyMSJ9)
+[Clique aqui para visualizar o Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiMWE4NWQzZjAtMWQ1My00MzY5LWEyZTMtMTAxN2I1ZDcyMmZlIiwidCI6Ijc5YzcwOGI2LWRkODMtNDgwYS04ZDNkLTI5YTYyZTg3N2IyMSJ9&pageName=b7c326dea91ef30e9e36)
 
 ---
 
