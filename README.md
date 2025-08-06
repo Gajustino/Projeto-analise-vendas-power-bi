@@ -6,9 +6,9 @@ Utilizei o Power BI para transformar os dados brutos em um painel executivo mode
 
 ---
 
-##  Link: 
+##  Link público
 
-https://app.powerbi.com/view?r=eyJrIjoiMWE4NWQzZjAtMWQ1My00MzY5LWEyZTMtMTAxN2I1ZDcyMmZlIiwidCI6Ijc5YzcwOGI2LWRkODMtNDgwYS04ZDNkLTI5YTYyZTg3N2IyMSJ9
+[Clique aqui para visualizar o Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiMWE4NWQzZjAtMWQ1My00MzY5LWEyZTMtMTAxN2I1ZDcyMmZlIiwidCI6Ijc5YzcwOGI2LWRkODMtNDgwYS04ZDNkLTI5YTYyZTg3N2IyMSJ9)
 
 ---
 
@@ -79,14 +79,4 @@ Criar um dashboard interativo para facilitar o monitoramento de desempenho finan
 - Inserir tooltip customizado com evolução temporal por marca
 - Adicionar segmentação por faixa de preço dos produtos
 - Publicar versão pública via Power BI Service (opcional)
-
----
-
-## Screenshots
-
-<p float="left">
-  <img src="https://raw.githubusercontent.com/seu-usuario/seu-repo/main/img/pagina1.png" width="300"/>
-  <img src="https://raw.githubusercontent.com/seu-usuario/seu-repo/main/img/pagina2.png" width="300"/>
-  <img src="https://raw.githubusercontent.com/seu-usuario/seu-repo/main/img/pagina3.png" width="300"/>
-</p>
 
