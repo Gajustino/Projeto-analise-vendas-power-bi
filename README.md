@@ -71,12 +71,3 @@ Criar um dashboard interativo para facilitar o monitoramento de desempenho finan
 - Países como **Alemanha e China** lideram em volume e lucro.
 - A árvore de decomposição mostrou que **Apple e Asus** estão entre as marcas mais rentáveis.
 
----
-
-## Próximos Passos
-
-- Criar bookmarks com visão comparativa por ano
-- Inserir tooltip customizado com evolução temporal por marca
-- Adicionar segmentação por faixa de preço dos produtos
-- Publicar versão pública via Power BI Service (opcional)
-
