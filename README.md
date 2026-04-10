@@ -1,4 +1,4 @@
-# Power BI Dashboard — Faturamento, Lucro e Vendas por Região
+# Power BI Dashboard - Faturamento, Lucro e Vendas por Região
 
 Este projeto foi desenvolvido com o objetivo de analisar, visualizar e apresentar de forma clara e interativa os principais indicadores comerciais de uma empresa: **Faturamento**, **Lucro**, **Devoluções** e **Vendas**.
 
@@ -35,19 +35,19 @@ Criar um dashboard interativo para facilitar o monitoramento de desempenho finan
 
 ## Funcionalidades e Destaques
 
-### Página 1 – **Visão Geral**
+### Página 1 - **Visão Geral**
 - KPI Cards com Faturamento, Lucro, % de Devoluções e Perda de Faturamento
 - Gráfico de colunas + linha mostrando a evolução mensal de Faturamento x Lucro
 - Segmentação por ano (2020, 2021, 2022)
 - Gráfico de **Top 15 produtos mais lucrativos**
 - Lucro por Marca e Canal de Venda
 
-### Página 2 – **Árvore de Produto**
+### Página 2 - **Árvore de Produto**
 - Análise hierárquica de **Marca → Categoria → Produto**
 - Drill automático até o nível de produto com valor de faturamento em cada nível
 - Botão de alternância entre "Lucro Total" e "Faturamento Total" via **parâmetro de campo**
 
-### Página 3 – **Países e Lojas**
+### Página 3 - **Países e Lojas**
 - Tabela detalhada com **país, faturamento, lucro e número de vendas**
 - Gráfico de barras com os **15 países com maior volume de vendas**
 - **Mapa interativo** com a distribuição das lojas pelo mundo
